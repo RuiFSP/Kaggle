@@ -8,7 +8,7 @@ My Kaggle Start
     - 1.3 - Data Types ✅
     - 1.4 - Conditions and Conditional Statements ✅
     - 1.5 - Intro to Lists ✅
-    - ![My Image](Certificates/Intro_to_Programming.png)
+    ![My Image](Certificates/Intro_to_Programming.png)
         
     - [Module 2](https://github.com/RuiFSP/Kaggle/tree/main/Python) - Python 
     - 2.2 - Functions and Getting Help ✅
