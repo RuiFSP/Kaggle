@@ -21,10 +21,10 @@ My Kaggle Start
     ![My Image](Certificates/Python.png)
 
   - [Module3]() - Intro to Machine Learning
-    - 3.1 - How Models Work
-    - 3.2 - Basic Data Exploration
-    - 3.3 - Your First Machine Learning Model
-    - 3.4 - Model Validation
+    - 3.1 - How Models Work ✅
+    - 3.2 - Basic Data Exploration ✅
+    - 3.3 - Your First Machine Learning Model ✅
+    - 3.4 - Model Validation ✅
     - 3.5 - Underfitting and Overfitting
     - 3.6 - Random Forest
     - 3.7 - Machine Learning Competitions
