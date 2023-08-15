@@ -27,4 +27,5 @@ My Kaggle Start
     - 3.4 - Model Validation ✅
     - 3.5 - Underfitting and Overfitting ✅
     - 3.6 - Random Forest ✅
-    - 3.7 - Machine Learning Competitions
+    - 3.7 - Machine Learning Competitions ✅
+    ![My Image](Certificates/Intro_to_Machine_Learning.png)
