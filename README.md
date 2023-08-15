@@ -20,7 +20,7 @@ My Kaggle Start
     - 2.7 - Working with External Libraries ✅
     ![My Image](Certificates/Python.png)
 
-  - [Module3]() - Intro to Machine Learning
+  - [Module3](https://github.com/RuiFSP/Kaggle/tree/main/Intro_to_Machine_Learning) - Intro to Machine Learning
     - 3.1 - How Models Work ✅
     - 3.2 - Basic Data Exploration ✅
     - 3.3 - Your First Machine Learning Model ✅
