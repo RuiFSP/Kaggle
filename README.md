@@ -29,3 +29,11 @@ My Kaggle Start
     - 3.6 - Random Forest ✅
     - 3.7 - Machine Learning Competitions ✅
     ![My Image](Certificates/Intro_to_Machine_Learning.png)
+  
+  -[Module4](https://github.com/RuiFSP/Kaggle/tree/main/Pandas) - Pandas
+    - 4.1 - Creating, Reading and Writing ✅
+    - 4.2 - Indexing, Selecting & Assigning ✅
+    - 4.3 - Summary funcions and Maps ✅
+    - 4.4 - Grouping and Sorting
+    - 4.5 - Data Types and Missing Values
+    - 4.6 - Renaming and Combining
