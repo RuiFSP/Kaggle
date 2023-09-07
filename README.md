@@ -34,6 +34,6 @@ My Kaggle Start
     - 4.1 - Creating, Reading and Writing ✅
     - 4.2 - Indexing, Selecting & Assigning ✅
     - 4.3 - Summary funcions and Maps ✅
-    - 4.4 - Grouping and Sorting
+    - 4.4 - Grouping and Sorting ✅
     - 4.5 - Data Types and Missing Values
     - 4.6 - Renaming and Combining
