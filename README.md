@@ -37,3 +37,15 @@ My Kaggle Start
     - 4.4 - Grouping and Sorting ✅
     - 4.5 - Data Types and Missing Values
     - 4.6 - Renaming and Combining
+
+  
+  -[Module5](https://github.com/RuiFSP/Kaggle/tree/main/Data_Visualization) - Data Visualization
+    - 5.1 - Hello, Seaborn ✅
+    - 5.2 - Line Charts ✅
+    - 5.3 - Bar Charts and Heatmaps ✅
+    - 5.4 - Scatter Plots ✅
+    - 5.5 - Distribuitions ✅
+    - 5.6 - Choosing Plot Types and Custom Styles ✅
+    - 5.7 - Final Project ✅
+    - 5.8 - Creating Your Own Notebooks ✅
+  ![My Image](Certificates/Data_Visualization.png)
