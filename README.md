@@ -35,9 +35,9 @@ My Kaggle Start
     - 4.2 - Indexing, Selecting & Assigning ✅
     - 4.3 - Summary funcions and Maps ✅
     - 4.4 - Grouping and Sorting ✅
-    - 4.5 - Data Types and Missing Values
-    - 4.6 - Renaming and Combining
-
+    - 4.5 - Data Types and Missing Values ✅
+    - 4.6 - Renaming and Combining ✅
+    ![My Image](Certificates/Pandas.png)
   
   -[Module5](https://github.com/RuiFSP/Kaggle/tree/main/Data_Visualization) - Data Visualization
     - 5.1 - Hello, Seaborn ✅
