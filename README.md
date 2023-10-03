@@ -30,7 +30,7 @@ My Kaggle Start
     - 3.7 - Machine Learning Competitions ✅
     ![My Image](Certificates/Intro_to_Machine_Learning.png)
   
-  -[Module4](https://github.com/RuiFSP/Kaggle/tree/main/Pandas) - Pandas
+  - [Module4](https://github.com/RuiFSP/Kaggle/tree/main/Pandas) - Pandas
     - 4.1 - Creating, Reading and Writing ✅
     - 4.2 - Indexing, Selecting & Assigning ✅
     - 4.3 - Summary funcions and Maps ✅
@@ -39,7 +39,7 @@ My Kaggle Start
     - 4.6 - Renaming and Combining ✅
     ![My Image](Certificates/Pandas.png)
   
-  -[Module5](https://github.com/RuiFSP/Kaggle/tree/main/Data_Visualization) - Data Visualization
+  - [Module5](https://github.com/RuiFSP/Kaggle/tree/main/Data_Visualization) - Data Visualization
     - 5.1 - Hello, Seaborn ✅
     - 5.2 - Line Charts ✅
     - 5.3 - Bar Charts and Heatmaps ✅
@@ -48,4 +48,12 @@ My Kaggle Start
     - 5.6 - Choosing Plot Types and Custom Styles ✅
     - 5.7 - Final Project ✅
     - 5.8 - Creating Your Own Notebooks ✅
-  ![My Image](Certificates/Data_Visualization.png)
+    ![My Image](Certificates/Data_Visualization.png)
+  
+  - [Module6](https://github.com/RuiFSP/Kaggle/tree/main/Data_Cleaning) - Data Cleaning
+    - 6.1 - Handling Missing Values ✅
+    - 6.2 - Scaling and Normalization ✅
+    - 6.3 - Parsing Dates 
+    - 6.4 - Character Encodings 
+    - 6.5 - Inconsistent Data entry 
+
