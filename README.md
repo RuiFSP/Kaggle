@@ -49,5 +49,5 @@ My Kaggle Start
     - 6.1 - Handling Missing Values ✅
     - 6.2 - Scaling and Normalization ✅
     - 6.3 - Parsing Dates ✅
-    - 6.4 - Character Encodings 
-    - 6.5 - Inconsistent Data entry 
+    - 6.4 - Character Encodings ✅
+    - 6.5 - Inconsistent Data entry ✅
