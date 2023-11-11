@@ -53,10 +53,10 @@ My Kaggle Start
     - 6.5 - Inconsistent Data entry ✅
 
   - [Module7](https://github.com/RuiFSP/Kaggle/tree/main/Intermediate_Machine_Learning) - Intermediate Machine Learning
-    - 7.1 - Introduction
-    - 7.2 - Missing Values
-    - 7.3 - Categorical Variables
-    - 7.4 - Pipelines
-    - 7.5 - Cross-Validation
-    - 7.6 - XGBoost
-    - 7.7 - Data Leakage
+    - 7.1 - Introduction ✅
+    - 7.2 - Missing Values ✅
+    - 7.3 - Categorical Variables ✅
+    - 7.4 - Pipelines ✅
+    - 7.5 - Cross-Validation ✅
+    - 7.6 - XGBoost ✅
+    - 7.7 - Data Leakage ✅
