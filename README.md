@@ -64,7 +64,7 @@ My Kaggle Start
   - [Module8](https://github.com/RuiFSP/Kaggle/tree/main/Feature_Engineering) - Feature Engineering
     - 8.1 - What is Feature Engineering ✅
     - 8.2 - Mutual Information ✅
-    - 8.3 - Creating Features
-    - 8.4 - Clustering with K-Means
-    - 8.5 - Principal Component Analysis
-    - 8.6 - Target Encoding
+    - 8.3 - Creating Features ✅
+    - 8.4 - Clustering with K-Means ✅
+    - 8.5 - Principal Component Analysis ✅
+    - 8.6 - Target Encoding ✅
