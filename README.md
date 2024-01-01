@@ -68,3 +68,11 @@ My Kaggle Start
     - 8.4 - Clustering with K-Means ✅
     - 8.5 - Principal Component Analysis ✅
     - 8.6 - Target Encoding ✅
+
+  - [Module9](https://github.com/RuiFSP/Kaggle/tree/main/Intro_to_SQL) - Intro to SQL
+    - 9.1 - Getting started wih SQL and BigQuery ✅
+    - 9.2 - Select, From & Where
+    - 9.3 - Group By, Having & Count
+    - 9.4 - Order by
+    - 9.5 - As & With
+    - 9.6 - Joining Data
