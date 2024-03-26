@@ -11,3 +11,4 @@ My Kaggle Start
   - [Module 7](https://github.com/RuiFSP/Kaggle/tree/main/Intermediate_Machine_Learning) - Intermediate Machine Learning
   - [Module 8](https://github.com/RuiFSP/Kaggle/tree/main/Feature_Engineering) - Feature Engineering
   - [Module 9](https://github.com/RuiFSP/Kaggle/tree/main/Intro_to_SQL) - Intro to SQL and BigQuery
+  - [Module 10](https://github.com/RuiFSP/Kaggle/tree/main/Machine_Learning_Explainability) - Machine Learning Explainability
