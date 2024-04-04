@@ -134,5 +134,6 @@ dmypy.json
 # ignore plk files
 *.pkl
 
-# ignore catboost info
+# ignore catboost, models info
 catboost_info
+models
