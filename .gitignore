@@ -137,3 +137,4 @@ dmypy.json
 # ignore catboost, models info
 catboost_info
 models
+/Playground_Series_S4/7-Binary_Classification_of_Insurance_Cross_Selling/data
